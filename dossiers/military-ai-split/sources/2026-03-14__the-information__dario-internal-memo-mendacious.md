@@ -2,10 +2,13 @@
 url: "https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement"
 outlet: "The Information (referenced)"
 author: "(memo by Dario Amodei; publication author not captured)"
-published: "2026-03-??"
-access: "captured excerpt (paywalled source)"
-reliability: "primary-ish (internal memo excerpt; provenance via paywalled outlet)"
+published: "unknown (paywalled)"
+access: "captured excerpt (paywalled source); additional provenance: reddit thread"
+reliability: "unverified internal memo excerpt (treat as attributed/purported)"
 tags: [military-ai, anthropic, openai, pentagon, safety-theater, surveillance]
+provenance:
+  the_information_url: "https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement"
+  reddit_thread: "https://www.reddit.com/r/singularity/comments/1rl6va1/anthropic_ceo_calls_openais_pentagon_announcement/"
 ---
 
 # Dario Amodei internal memo (excerpt) — ‘mendacious’ OpenAI Pentagon messaging
