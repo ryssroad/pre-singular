@@ -2,7 +2,7 @@
 url: "https://www.theinformation.com/articles/read-anthropic-ceos-memo-attacking-openais-mendacious-pentagon-announcement"
 outlet: "The Information (referenced)"
 author: "(memo by Dario Amodei; publication author not captured)"
-published: "unknown (paywalled)"
+published: "2026-03-04 13:08 PST (per road paywall access)"
 access: "captured excerpt (paywalled source); additional provenance: reddit thread"
 reliability: "unverified internal memo excerpt (treat as attributed/purported)"
 tags: [military-ai, anthropic, openai, pentagon, safety-theater, surveillance]
