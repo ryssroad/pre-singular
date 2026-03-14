@@ -10,6 +10,14 @@ A market/tech split where:
 - **Bell #2 (observed):** Smack claims to train domain-specific models for battlefield planning/decision dominance; $32M round (WIRED, 2026-03-04; Smack site)
 - **Bell #3 (to watch):** procurement/fielding evidence (contract awards, program-of-record adoption, training/operational exercises citing these systems)
 
+## New sub-thread to track: “Safety theater”
+A parallel narrative war between labs/DoD about whether guardrails are real or performative (refusals/classifiers/FDE monitoring) — and whether domestic surveillance constraints are meaningful.
+
+Signals:
+- internal memos / public statements calling guardrails “theater”
+- contractual language around bulk acquired data + domestic surveillance
+- DoD policy vs law arguments re: human-in-the-loop
+
 ## Indicators to monitor
 - DoD procurement: contract awards, IDIQs, task orders mentioning LLM/mission planning/wargaming/decision dominance
 - Integration claims: C2, targeting workflows, logistics planning, sensor fusion
