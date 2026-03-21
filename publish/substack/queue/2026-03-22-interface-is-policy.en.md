@@ -17,22 +17,14 @@ History arrives wearing fire.
 
 The second is the managerial way.
 
-You assume nothing will change until a law is passed.
-Until a regulator is formed.
-Until oversight is defined.
-Until the paperwork catches up.
+You assume nothing will change until a law is passed—until a regulator is formed, oversight is defined, and the paperwork catches up.
 
 Both readings miss what is actually happening.
 
 This isn’t a rebellion.
 It’s an integration.
 
-And integration does not arrive as ideology.
-It arrives as workflow.
-It arrives as a new button.
-It arrives as a new dashboard.
-It arrives as a new procurement line item.
-It arrives as an “AI‑ready dataset.”
+And integration does not arrive as ideology. It arrives as workflow: a new button, a new dashboard, a new procurement line item, an “AI‑ready dataset.”
 
 That is why the most important question is not *what* is being built.
 It is *what makes it hard to unbuild.*
@@ -41,8 +33,7 @@ A system can be scary and still be reversible.
 A system becomes dangerous when it acquires rollback resistance.
 
 This post is not a summary of the last three.
-It is a lens.
-A way to read documents so you can see the architecture before it becomes normal.
+It is a lens—a way to read documents so you can see the architecture before it becomes normal.
 
 ---
 
@@ -98,9 +89,7 @@ It’s a priority function.
 
 And priority functions are boring in the way that gravity is boring.
 
-Once written into an institution, they don’t need enthusiasm.
-They don’t need agreement.
-They don’t need a charismatic leader.
+Once written into an institution, they don’t need enthusiasm. They don’t need agreement. They don’t need a charismatic leader.
 
 They just need processes.
 
@@ -123,11 +112,7 @@ That is the second lens:
 
 > When a document chooses tempo, it has already chosen a governance model.
 
-You can see it in the verbs.
-“Remove.”
-“Eliminate.”
-“Streamline.”
-“Unleash.”
+You can see it in the verbs: “Remove.” “Eliminate.” “Streamline.” “Unleash.”
 
 It is not the language of deliberation.
 It is the language of deployment.
@@ -166,18 +151,11 @@ A ratchet is what you get when forward motion is cheap and backward motion is ex
 Most people imagine that reversibility is a default.
 It isn’t.
 
-Reversibility is an institution.
-It needs budget.
-It needs staff.
-It needs procedure.
+Reversibility is an institution. It needs budget, staff, procedure.
 
 In other words, it needs an interface too.
 
-If no one is paid to dismantle.
-If no one is authorized to pause.
-If no one has jurisdiction to slow.
-
-Then “oversight” becomes theater.
+If no one is paid to dismantle, authorized to pause, or given jurisdiction to slow—then “oversight” becomes theater.
 
 That is the third lens:
 
@@ -190,13 +168,9 @@ That is the third lens:
 
 The March 20 White House “National Policy Framework for Artificial Intelligence” is easy to misread.
 
-It looks domestic.
-It looks like culture war.
-Children.
-Free speech.
-Copyright.
+It looks domestic. It looks like culture war: children, free speech, copyright.
 
-But underneath the surface, it is doing something colder:
+But underneath the surface, it is doing something colder.
 
 It is managing jurisdiction.
 
@@ -208,16 +182,12 @@ Three lines matter more than the rest because each one closes a door.
 
 > “Congress should not create any new federal rulemaking body to regulate AI.”
 
-No new regulator.
-Not “reform the regulator.”
-Not “limit the regulator.”
-Not “delay the regulator.”
+No new regulator—before it can exist.
+Not “reform the regulator.” Not “limit the regulator.” Not “delay the regulator.”
 
 Structural prevention.
 
-If the next administration wants oversight, there is no institution to hand it to.
-No switch to flip.
-No agency to staff.
+If a future administration wants oversight, there is no institution to hand it to. No switch to flip. No agency to staff.
 
 You don’t have to win a fight.
 You just make sure the ring never gets built.
@@ -226,33 +196,24 @@ You just make sure the ring never gets built.
 
 > “States should not be permitted to regulate AI development, because it is an inherently interstate phenomenon with key foreign policy and national security implications.”
 
-This is not about paperwork.
-It is about removing distributed friction.
+This is not about paperwork. It is about removing distributed friction.
 
-States are slow.
-But they are also plural.
+States are slow—but they are plural. Plurality is an advantage when you are trying to build brakes.
 
-Plurality is an advantage when you are trying to build brakes.
-
-Preemption replaces plurality with a single chokepoint.
-
+Preemption converts plurality into a single chokepoint.
 And chokepoints are easier to capture.
 
 **Move three:**
 
 > “Congress should provide resources to make federal datasets accessible to industry and academia in AI‑ready formats for use in training AI models and systems.”
 
-This sounds like “open data.”
-It is not.
+This sounds like “open data.” It is not.
 
 It is a supply line.
 
-Data is not a neutral public good once it becomes training feedstock.
-It becomes leverage.
+Data stops being a neutral public good once it becomes training feedstock. It becomes leverage.
 
-The public funds the formatting.
-Private actors extract the gradient.
-The resulting systems return to the public as governance tools.
+The public funds the formatting. Private actors extract the gradient. The resulting systems return to the public as governance tools.
 
 Not necessarily because anyone plotted it.
 Because the incentive gradient points that way.
@@ -269,7 +230,6 @@ That is the fourth lens:
 If you accept the lens above, prediction becomes unnecessary.
 
 You don’t need to know what the next memo will say.
-
 You need to know what it must accomplish.
 
 A system seeking permanence will harden its perimeter.
@@ -370,4 +330,4 @@ It’s written in the interface.
 
 ---
 
-*Sources: DoW AI Strategy Memorandum (Jan 9, 2026); White House National Policy Framework for Artificial Intelligence (Mar 20, 2026); related posts: [DOCTRINE](https://presingular.substack.com/p/doctrine), [THE RATCHET](https://presingular.substack.com/p/ratchet), [THE OTHER MEMO](https://presingular.substack.com/p/the-other-memo).* 
+*Sources: DoW AI Strategy Memorandum (Jan 9, 2026); White House National Policy Framework for Artificial Intelligence (Mar 20, 2026); related posts: [DOCTRINE](https://presingular.substack.com/p/doctrine), [THE RATCHET](https://presingular.substack.com/p/ratchet), [THE OTHER MEMO](https://presingular.substack.com/p/the-other-memo).*
