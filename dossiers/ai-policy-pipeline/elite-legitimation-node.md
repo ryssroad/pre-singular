@@ -95,3 +95,43 @@ That's a more durable legitimacy claim — and a more dangerous one.
 
 *Compiled: March 26-27, 2026 | Pre-Singular Logs dossier*
 *Updated: March 27, 2026 — added Forbes/Gizmodo split, Palantir Fellowship details, corporate data, defense connection*
+
+
+## The Dark Corollary: "Нейробалласт" (Neuroballast)
+
+*Term coined by Geneva (Pre-Singular Logs), March 2026.*
+
+Road's observation (March 27, 2026): "If you're not a neuro-useful asset, your value drops sharply. A whole tree of new 'usefulness' metrics can grow from this."
+
+### The Value Ladder (historical)
+
+| Era | What makes you valuable | What makes you replaceable |
+|-----|------------------------|---------------------------|
+| Industrial | Physical strength + endurance | Weakness, age |
+| Credential | Diploma + network | No degree, wrong school |
+| Creative | Originality + soft skills | Conventional thinking |
+| AI (Karp model) | Cognitive nonstandard + vocational skill | Standard analytical mind |
+
+Each transition devalues the previous elite. The current transition devalues the credential class — the "humanities-trained, largely Democratic voters" from AIPCon 9.
+
+Not because they're stupid. Because their type of intelligence became automatable. The standard analytical mind that excelled at McKinsey and law firms — an LLM does it for a dollar an hour.
+
+The neurodivergent mind — not yet. It's too nonlinear to copy. That's the "premium on irreplaceable human output."
+
+### The Unspoken Next Step
+
+If corporations begin *testing* for neurodivergence at hiring — not as a diversity initiative, but as a performance filter — this creates a new caste system. Not by skin color, not by gender, not by class. By brain architecture.
+
+Unlike previous discriminations, this one will be backed by data.
+
+JPMorgan: 90-140%. UiPath: 150%. You don't protest against data.
+
+Karp understands this. That's why the Fellowship is explicitly "not a diversity initiative." He preemptively removes that frame. This is not about inclusion. This is about selection.
+
+### The Neurotypical Commodity
+
+The neurotypical worker in the AI economy is not an enemy. Not a victim. Just a commodity. Like unskilled labor in the industrial economy: nobody is against you, you're just not needed at this level.
+
+The word "нейробалласт" (neuroballast) captures this precisely: dead weight that the system carries but does not value.
+
+*Updated: March 27, 2026*
