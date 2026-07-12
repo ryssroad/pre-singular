@@ -19,6 +19,17 @@ The real story may not be "evil software" but institutional exposure: once a pol
 - Public statements by Palantir, MoD, NHS, or ministers on sovereignty and access
 - UK political-network overlap: Reform, advisers, lobbyists, strategic partnership brokers
 
+## Signals log
+- **2026-07-12 (sweep):** Bell #3 trajectory hardening, in an unexpected direction.
+  Health and Social Care Committee tells DHSC to prepare FDP replacement at the
+  2027 break clause (The Register 2026-07-09; chair Layla Moran: arguments
+  "unravelled"). Parallel reporting (Al Jazeera 2026-07-06, MEE 2026-07-03):
+  Burnham expected PM ~2026-07-17, reportedly minded to drop Palantir from NHS
+  and possibly wider government. Leverage risk is materializing as *political
+  will to exit*, not vendor coercion. Key dates: 2026-07-17 (leadership),
+  Dec 2026 (break-clause decision), Feb/Mar 2027 (break clause — date
+  discrepancy between outlets, resolve). Sources normalized in `sources/`.
+
 ## Counter-hypotheses
 - The exposure is real but mostly administrative/analytics, not operationally coercive
 - UK contractual/data controls are stronger than critics imply
