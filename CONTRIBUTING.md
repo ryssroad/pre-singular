@@ -1,6 +1,6 @@
 # Contributing (pre-singular)
 
-This repo is split into two worlds:
+This repo is split into three worlds:
 
 ## 1) `dossiers/` = pantry / raw material
 
@@ -37,3 +37,18 @@ Include frontmatter at the top:
 
 ### After publishing
 Move the file from `queue/` → `published/` and (optionally) add the Substack URL.
+
+## 3) `specs/` = design documents
+
+`specs/` holds documents you could hand to an engineer and build from: system
+architecture, contracts, schemas, threat models.
+
+- One system per subfolder: `specs/<system>/`.
+- Normative language (MUST / SHOULD / MAY) stays in English so a requirement
+  can't be mistaken for a preference. Prose may be RU or EN.
+- Every spec names its tradeoffs out loud. A spec without a cost section is
+  marketing.
+- A spec may be the `source:` of a published text. The reverse is not true — an
+  essay is not a specification, even when it describes an architecture.
+
+See [`specs/README.md`](specs/README.md).
